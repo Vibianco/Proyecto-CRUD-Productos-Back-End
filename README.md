@@ -1,11 +1,8 @@
-# proy-crud-productos-springboot
-#
-
 ## Spring Framework 5 y Spring Boot
 
 - Inyección de dependencias
 - Contenedor y contextos IoC
-- anotaciones-spring
+- Anotaciones-spring
 - RESTful
 - Formularios
 - Sesiones HTTP
@@ -17,5 +14,3 @@
 - Apache
 - SWAGGER
 - LOMBOK
-
-## A medida que vamos avanzando voy comiteando
